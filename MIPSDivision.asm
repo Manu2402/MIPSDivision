@@ -1,6 +1,6 @@
-# A program that calculates from scratch the division operation between two unsigned integer numbers 
+# A program that calculates from scratch the division operation between two signed integer numbers 
 # with exception handler and syscalls. I know there is a MIPS "pseudo-instruction" about the division, 
-# but for DIDACTICAL SCOPES i wanted to try to make one by myself using an exception handler.
+# but for didactical scopes i wanted to try to make one by myself using an exception handler.
 
 # ABI (Application Binary Interface): 
 # $a0 --> First Number
